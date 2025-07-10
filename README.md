@@ -66,12 +66,13 @@ A **Decision Tree Classifier** was trained using the preprocessed dataset with t
 
 ## 📌 Folder Structure
 
+bank-subscription-prediction/  
 ├── bank.csv  
-├── models
-|      └── model.pkl
-|      └──encounters.pkl
-├── noteboks/  
-│      └──bank_analysis.ipynb  
+├── models/  
+│ ├── model.pkl  
+│ └── encounters.pkl  
+├── notebook/  
+│ └── bank_analysis.ipynb  
 ├── README.md  
 
 # # 🛠️ Future Development
