@@ -1,4 +1,4 @@
-# 📊 Bank Subscription Analysis (SkillCraft Internship Task 3)
+# 📊 Bank Subscription Prediction
 
 This project is part of the **Data Science Virtual Internship** by **SkillCraft Technology**. The task involved performing **Exploratory Data Analysis (EDA)** on a banking dataset to uncover insights and patterns related to customer subscription behavior.
 
